@@ -1,10 +1,5 @@
-<html>
-<head>
-    <title>About</title>
-</head>
-<body>
-    <div>
+    @extends('layout.master')
+  @section('content')
+    <div class="container">
        About as
     </div>
-</body>
-</html>
